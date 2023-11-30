@@ -1,0 +1,14 @@
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\bin\Debug\PhraseNet.exe.config
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\bin\Debug\PhraseNet.exe
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\bin\Debug\PhraseNet.pdb
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.csproj.AssemblyReference.cache
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.frmPrincipal.resources
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.csproj.GenerateResource.cache
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.exe
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.pdb
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.frmStopWord.resources
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Osvaldo\Desktop\PhraseNet\PhraseNet\obj\Debug\PhraseNet.csproj.CopyComplete

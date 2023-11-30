@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhraseNet", "PhraseNet\PhraseNet.csproj", "{01AF460A-0960-4066-B4E5-FA7F397AE97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AF460A-0960-4066-B4E5-FA7F397AE97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AF460A-0960-4066-B4E5-FA7F397AE97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AF460A-0960-4066-B4E5-FA7F397AE97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AF460A-0960-4066-B4E5-FA7F397AE97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C578DF5-94DE-401D-9A09-E1A347211B61}
+	EndGlobalSection
+EndGlobal
